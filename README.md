@@ -24,6 +24,6 @@ The rules of the game follow the classic Monopoly board game. Players take turns
    ```sh
    g++ -o monopoly monopoly.cpp
 3. Run the game:
-   ``sh
+   ```sh
    ./monopoly
    
